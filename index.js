@@ -8,7 +8,7 @@ exports.register = function (callback) {
     }, n => callback(n != 0))
 }
 
-exports.isLightMode = function () { addon.getDWord(eventSource) == 1 }
+exports.isLightMode = function () { return addon.getDWord(eventSource) == 1 }
 exports.unregister = function () { addon.unregister(eventSource) }
 
 var eventSource
