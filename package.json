@@ -1,0 +1,22 @@
+{
+  "name": "windows-theme-changes",
+  "version": "1.0.0",
+  "description": "Node.js addon to detect when light oder dark theme is chosen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uriegel/windows-theme-changes.git"
+  },
+  "author": "Uwe Riegel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uriegel/windows-theme-changes/issues"
+  },
+  "homepage": "https://github.com/uriegel/windows-theme-changes#readme",
+  "dependencies": {
+    "registry-changes-detector": "^2.0.0"
+  }
+}
