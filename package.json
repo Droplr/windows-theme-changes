@@ -1,6 +1,6 @@
 {
   "name": "windows-theme-changes",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Node.js addon to detect when light oder dark theme is chosen",
   "main": "index.js",
   "scripts": {
