@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/uriegel/windows-theme-changes#readme",
   "dependencies": {
-    "registry-changes-detector": "^2.0.1"
+    "registry-changes-detector": "^2.1.0"
   }
 }
